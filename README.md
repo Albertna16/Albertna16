@@ -20,7 +20,7 @@ I'm a full mobile developer with experience in various aspects of software devel
 ⚡️ Fun fact: I enjoy exploring new technologies and continuously improving my skills in mobile development.
 
 <p align="left">
-<a href="https://github.com/KevinIansyah">
+<a href="https://github.com/Albertna16">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Albertna16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Albertna16&layout=compact&langs_count=8&theme=algolia"/>
 </a>
